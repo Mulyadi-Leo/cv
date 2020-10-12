@@ -1,0 +1,73 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px;
+    border-radius: 50%;
+    background-color: white;
+    transition: 0.5s;
+  }
+  
+  .fa:hover {
+    cursor: pointer;
+    transform: rotateZ(360deg);
+  }
+  
+  .fa-facebook {
+    color: #3B5998;
+  }
+  
+  .fa-twitter {
+    color: #55ACEE;
+  }
+  
+  .fa-google {
+    color: #dd4b39;
+  }
+  
+  .fa-linkedin {
+    color: #007bb5;
+  }
+  
+  .jumbotron {
+    padding-top: 20vh;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Iridium-4_Mission_%2825557986177%29.jpg/1200px-Iridium-4_Mission_%2825557986177%29.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  h1,
+  h2 {
+    color: #ffee00;
+  }
+  
+  .sansita {
+    font-family: 'Sansita Swashed', cursive;
+  }
+  
+  .message {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  a {
+    color: #dd4b39;
+    transition: 0.2s;
+  }
+  
+  a:hover {
+    color: #dd4b39;
+    text-decoration: none ;
+  }
+  
+  .bootstrap-link:hover {
+    font-size: larger;
+  }
