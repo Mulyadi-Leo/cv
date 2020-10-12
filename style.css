@@ -38,7 +38,7 @@ body {
   
   .jumbotron {
     padding-top: 20vh;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Iridium-4_Mission_%2825557986177%29.jpg/1200px-Iridium-4_Mission_%2825557986177%29.jpg');
+    background-image: url('Dark.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -46,7 +46,7 @@ body {
   
   h1,
   h2 {
-    color: #ffee00;
+    color: darkorange;
   }
   
   .sansita {
